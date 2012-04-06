@@ -1,0 +1,25 @@
+{:include header :}
+                    <div class="section">
+						<div class="title">•When's the Big Day?•</div>
+						<div class="isdate">Saturday, June 23, 2012</div>
+						<div class="left">
+							<h2>The Wedding</h2>
+							<div>3pm @ <a href="http://walkerhost01.co.uk/stmarys/">St. Mary's Church</a></div>
+							<div>
+								<a title="Add to your Google calendar" class="cal" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=N24zOXQwdDFkaWtxY3Q4NGRxZXJnZHVtMjAgYWRtaW5AamFuZXRhbmRvbGx5c3dlZGRpbmcuY28udWs&tmsrc=admin%40janetandollyswedding.co.uk"><span class='tooltip'>Add to your Google calendar</span><img border="0" src="/images/google.png"></a>
+								<a title="Save to Outlook/iCal etc." class="cal" href="http://www.google.com/calendar/ical/admin%40janetandollyswedding.co.uk/public/basic.ics"><span class='tooltip'>Save to Outlook/iCal etc.</span><img border="0" src="/images/calendar.png"></a>
+								<a title="Browse on Google Calendar" class="cal" href="http://www.google.com/calendar/embed?src=admin%40janetandollyswedding.co.uk&ctz=UTC"><span class='tooltip'>Browse on Google Calendar</span><img border="0" src="/images/browse.png"></a>
+							</div>
+						</div>
+						<div class="right">
+							<h2>The Reception</h2>
+							<div>5pm @ <a href="http://www.hellensmanor.com/">Hellens Manor</a></div>
+							<div>
+								<a title="Add to your Google calendar" class="cal" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=ZGdiOWRvbjRrc3Ztam5nYTAzamgycW52djAgYWRtaW5AamFuZXRhbmRvbGx5c3dlZGRpbmcuY28udWs&tmsrc=admin%40janetandollyswedding.co.uk"><span class='tooltip'>Add to your Google calendar</span><img border="0" src="/images/google.png"></a>
+								<a title="Save to Outlook/iCal etc." class="cal" href="http://www.google.com/calendar/ical/admin%40janetandollyswedding.co.uk/public/basic.ics"><span class='tooltip'>Save to Outlook/iCal etc.</span><img border="0" src="/images/calendar.png"></a>
+								<a title="Browse on Google Calendar" class="cal" href="http://www.google.com/calendar/embed?src=admin%40janetandollyswedding.co.uk&ctz=UTC"><span class='tooltip'>Browse on Google Calendar</span><img border="0" src="/images/browse.png"></a>
+							</div>
+						</div>
+						<div class="illis"><img src="/images/clock.png" alt="Picture of a clock" /></div>
+					</div>
+{:include footer :}

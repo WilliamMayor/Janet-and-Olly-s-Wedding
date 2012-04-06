@@ -1,0 +1,11 @@
+{:include header :}
+					<div class="section list">
+						<div class="title rsvp">•The Wedding List•</div>
+						<div class="rsvp">If you'd like to get us a gift we've registered in two places:</div>
+						<div class="rsvp">
+						    <a href="http://www.debenhamsweddings.com/weddings_fld/wedding_list_search.jsp">Debenhams</a>
+						    <a href="http://www.amazon.co.uk/gp/registry/registry.html?ie=UTF8&type=wedding&id=1677U9YDGCI6H">Amazon</a></div>
+						<div class="rsvp">To find our Debenhams list use this list number: 354339</div>
+						<div class="rsvp">Thank you very much!</div>
+					</div>
+{:include footer :}

@@ -1,0 +1,25 @@
+{:include header :}
+                    <div class="section">
+						<div class="title">•Where's the Big Day?•</div>
+						<div class="place">
+							<div class="address left">
+								<h2>The Wedding</h2>
+								<div>St. Mary's Newent</div>
+								<div>Church Street</div>
+								<div>Newent</div>
+								<div>GL18 1AB</div>
+							</div>
+							<div class="map right"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=St.+Mary's+Church,+Church+Street,+Newent,+GL18+1AB&amp;aq=&amp;sll=51.931128,-2.404547&amp;sspn=0.007145,0.017939&amp;ie=UTF8&amp;hq=St.+Mary's+Church,&amp;hnear=Church+St,+Newent+GL18,+United+Kingdom&amp;t=m&amp;ll=51.930849,-2.403881&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=St.+Mary's+Church,+Church+Street,+Newent,+GL18+1AB&amp;aq=&amp;sll=51.931128,-2.404547&amp;sspn=0.007145,0.017939&amp;ie=UTF8&amp;hq=St.+Mary's+Church,&amp;hnear=Church+St,+Newent+GL18,+United+Kingdom&amp;t=m&amp;ll=51.930849,-2.403881&amp;spn=0.006295,0.006295" style="color:#0000FF;text-align:left">View Larger Map</a></small></div>
+						</div>
+						<div class="place">
+							<div class="map left"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=HELLENS,+MUCH+MARCLE,+HEREFORDSHIRE+HR8+2LY&amp;aq=&amp;sll=51.930849,-2.403881&amp;sspn=0.007145,0.017939&amp;ie=UTF8&amp;hq=&amp;hnear=Helens+Lodge,+Much+Marcle,+Ledbury+HR8+2NA,+United+Kingdom&amp;ll=51.999382,-2.498255&amp;spn=0.007821,0.020535&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=HELLENS,+MUCH+MARCLE,+HEREFORDSHIRE+HR8+2LY&amp;aq=&amp;sll=51.930849,-2.403881&amp;sspn=0.007145,0.017939&amp;ie=UTF8&amp;hq=&amp;hnear=Helens+Lodge,+Much+Marcle,+Ledbury+HR8+2NA,+United+Kingdom&amp;ll=51.999382,-2.498255&amp;spn=0.007821,0.020535&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small></div>
+							<div class="address right">
+								<h2>The Reception</h2>
+								<div>Hellens Manor</div>
+								<div>Much Marcle</div>
+								<div>Herefordshire</div>
+								<div>HR8 2LY</div>
+							</div>
+						</div>					
+					</div>
+{:include footer :}
