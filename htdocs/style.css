@@ -176,6 +176,7 @@ h2{
 .right a.cal span.tooltip {
     margin-left: -999em;
     position: absolute;
+    font-family: 'PTSansRegular';
 }
 .left a.cal:hover span.tooltip,
 .right a.cal:hover span.tooltip {
@@ -183,7 +184,7 @@ h2{
   top: 7px;
   z-index: 99;
   margin-left: 0;
-  font-size: 0.6em;
+  font-size: 0.35em;
 }
 .left a.cal:hover span.tooltip {
   right: -100px;
