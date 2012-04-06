@@ -29,7 +29,7 @@ a:hover {
     color: #616161;
 }
 #borders {
-    width: 80%;
+    width: 1000px;
     min-height: 80%;
     position: absolute;
     left: 10%;
@@ -58,7 +58,6 @@ a:hover {
     background-image: url('/images/border_left.png');
 }
 #container {
-    
 }
 #content {
 }
