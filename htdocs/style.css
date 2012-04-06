@@ -72,13 +72,13 @@ a:hover {
     top: 0;
     right: -10px;
     height: 100%;
-    background-image: url('/images/border_right.png');
+    background-image: url('/images/big_border_right.png');
 }
 .border_left {
     top: 0;
     left: -10px;
     height: 100%;
-    background-image: url('/images/border_left.png');
+    background-image: url('/images/big_border_left.png');
 }
 #container {
 }
