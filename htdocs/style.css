@@ -45,11 +45,6 @@ a {
 a:hover {
     color: #C21A01;
 }
-ul {
-    list-style-type: none;
-    padding: 0px;
-    margin: 0px;
-}
 .red {
     color: #C21A01;
 }
@@ -108,153 +103,23 @@ ul {
     right: 20px;
     top: 130px;
 }
-#defaultCountdown {
-    position: absolute;
-    top: 0px;
-    right: 20px;
-}
-.hasCountdown {
-    font-family: 'PTSansRegular';
-    text-align: center;
-    margin-left: 20px;
-    margin-top: 10px;
-    font-size: 14px;
-    font-weight: normal;
-}
-#nav {
-    text-align: center;
-    border-bottom: 1px solid #AAA;
-    margin: -20px 50px 20px 50px;
-}
-#nav ul li {
-    display: inline-block;
-    padding: 0 20px;
-}
-#nav ul li a {
-    text-decoration: none;
-}
-#nav ul li a:hover {
-    text-decoration: underline;
-}
 .title {
     font-family: 'TangerineBold', cursive;
     margin-bottom: 20px;
 }
-.title, .rsvp {
+.title {
     text-align: center;
     font-size: 1.2em;
 }
-.title.rsvp {
-    margin-top: 0px;
-}
-.rsvp a {
-    margin: 0 100px;
-}
-.rsvp.links {
-    margin: 20px 0;
-}
-.isdate {
-    text-align: center;
-}
-.left, .right {
-    display: inline-block;
-    position: absolute;
-    margin-top: 40px;
-}
-h2{
-    font-weight: normal;
-}
-.left {
-    text-align: left;
-    left: 100px;
-}
-.right {
-    text-align: right;
-    right: 100px;
-}
-.left div,
-.right div {
-    margin: 5px;
-    position: relative;
-}
-.left a.cal,
-.right a.cal {
-    margin: 5px 10px;
-    text-decoration: none;
-}
-.left a.cal span.tooltip,
-.right a.cal span.tooltip {
-    margin-left: -999em;
-    position: absolute;
+.content {
     font-family: 'PTSansRegular';
+    font-style: normal;
+    font-size: 0.5em;
+    margin: 5px 50px;
 }
-.left a.cal:hover span.tooltip,
-.right a.cal:hover span.tooltip {
-  width: 200px;
-  top: 7px;
-  z-index: 99;
-  margin-left: 0;
-  font-size: 0.35em;
-}
-.left a.cal:hover span.tooltip {
-  right: -100px;
-}
-.right a.cal:hover span.tooltip {
-  left: -130px;
-}
-div.illis {
-    text-align: center;
-    margin: 80px 0;
-}
-div.illis img {
-    width: 100px;
-}
-div.place {
-    position: relative;
-    width: 80%;
-    height: 400px;
-    background-color: white;
-    margin: auto;
-    margin-bottom: 40px;
-    padding-bottom: 20px;
-}
-div.map {
+.embed {
+    margin: 20px auto;
     font-family: 'PTSansRegular';
-    font-size: 0.4em;
-}
-div.map.right {
-    top: 0px;
-    right: 20px;
-}
-div.map.left {
-    top: 0px;
-    left: 20px;
-}
-div.address {
-    font-size: 1em;
-    top: 60px;
-}
-div.address.right {
-    right: 80px;
-}
-div.address.left {
-    left: 80px;
-}
-div.accom {
-    height: 1000px;
-}
-div.accom ul li p {
-    font-size: 0.8em;
-}
-div.accom .right {
-    text-align: left;
-}
-div.accom ul li p {
-    margin-left: 50px;
-}
-div.accom ul li span {
-    font-family: 'TangerineBold', cursive;
-}
-div.list div {
-    margin: 20px 0;
+    font-style: normal;
+    font-size: 0.5em;
 }
